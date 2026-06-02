@@ -2,7 +2,7 @@
 // e.g., integrate it into a service or component
 // You may need to tweak it, depending on where and how you use it
 
-function calculateInvestmentResults() {
+/*function calculateInvestmentResults() {
   const annualData = [];
   let investmentValue = initialInvestment;
 
@@ -23,4 +23,4 @@ function calculateInvestmentResults() {
   }
 
   return annualData;
-}
+}*/
